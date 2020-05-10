@@ -18,7 +18,7 @@
   <ItemGroup Label="Project References">
     <ProjectReference Include="..\osu.Game.Tournament\osu.Game.Tournament.csproj" />
     <ProjectReference Include="..\osu.Game\osu.Game.csproj" />
-    <ProjectReference Include="..\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj" />
+    <ProjectReference Include="..\src\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj" />
   </ItemGroup>
   <ItemGroup Label="Package References">
     <PackageReference Include="System.IO.Packaging" Version="4.7.0" />

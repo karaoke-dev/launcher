@@ -28,7 +28,7 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj">
+    <ProjectReference Include="..\src\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj">
       <Project>{48f4582b-7687-4621-9cbe-5c24197cb536}</Project>
       <Name>osu.Game.Rulesets.Karaoke</Name>
     </ProjectReference>

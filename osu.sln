@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Karaoke", "osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj", "{48F4582B-7687-4621-9CBE-5C24197CB536}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Karaoke", "src\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj", "{48F4582B-7687-4621-9CBE-5C24197CB536}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Desktop", "osu.Desktop\osu.Desktop.csproj", "{419659FD-72EA-4678-9EB8-B22A746CED70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Karaoke.Tests", "osu.Game.Rulesets.Karaoke.Tests\osu.Game.Rulesets.Karaoke.Tests.csproj", "{7E9E9C34-B204-406B-82E2-E01E900699CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Karaoke.Tests", "src\osu.Game.Rulesets.Karaoke.Tests\osu.Game.Rulesets.Karaoke.Tests.csproj", "{7E9E9C34-B204-406B-82E2-E01E900699CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.iOS", "osu.iOS\osu.iOS.csproj", "{3F082D0B-A964-43D7-BDF7-C256D76A50D0}"
 EndProject

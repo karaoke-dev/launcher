@@ -21,12 +21,12 @@
     <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\osu.Game.Rulesets.Karaoke.Tests\*.cs">
+    <Compile Include="..\src\osu.Game.Rulesets.Karaoke.Tests\*.cs">
       <Link>%(RecursiveDir)%(Filename)%(Extension)</Link>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj">
+    <ProjectReference Include="..\src\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj">
       <Project>{48f4582b-7687-4621-9cbe-5c24197cb536}</Project>
       <Name>osu.Game.Rulesets.Karaoke</Name>
     </ProjectReference>

@@ -33,7 +33,7 @@
       <Project>{2A66DD92-ADB1-4994-89E2-C94E04ACDA0D}</Project>
       <Name>osu.Game</Name>
     </ProjectReference>
-    <ProjectReference Include="..\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj">
+    <ProjectReference Include="..\src\osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj">
       <Project>{48F4582B-7687-4621-9CBE-5C24197CB536}</Project>
       <Name>osu.Game.Rulesets.Karaoke</Name>
     </ProjectReference>
