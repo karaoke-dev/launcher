@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "osu.sln",
+    "projects": [
+      "osu.Game.Rulesets.Karaoke.Tests.Android\\osu.Game.Rulesets.Karaoke.Tests.Android.csproj",
+      "src\\osu.Game.Rulesets.Karaoke\\osu.Game.Rulesets.Karaoke.csproj",
+    ]
+  }
+}
