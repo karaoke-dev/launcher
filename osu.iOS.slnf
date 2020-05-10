@@ -2,8 +2,8 @@
   "solution": {
     "path": "osu.sln",
     "projects": [
-      "osu.Game.Rulesets.Mania.Tests.iOS\\osu.Game.Rulesets.Mania.Tests.iOS.csproj",
-      "osu.Game.Rulesets.Mania\\osu.Game.Rulesets.Mania.csproj",
+      "osu.Game.Rulesets.Karaoke.Tests.iOS\\osu.Game.Rulesets.Karaoke.Tests.iOS.csproj",
+      "osu.Game.Rulesets.Karaoke\\osu.Game.Rulesets.Karaoke.csproj",
     ]
   }
 }

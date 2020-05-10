@@ -2,8 +2,8 @@
   "solution": {
     "path": "osu.sln",
     "projects": [
-      "osu.Game.Rulesets.Mania.Tests.Android\\osu.Game.Rulesets.Mania.Tests.Android.csproj",
-      "osu.Game.Rulesets.Mania\\osu.Game.Rulesets.Mania.csproj",
+      "osu.Game.Rulesets.Karaoke.Tests.Android\\osu.Game.Rulesets.Karaoke.Tests.Android.csproj",
+      "osu.Game.Rulesets.Karaoke\\osu.Game.Rulesets.Karaoke.csproj",
     ]
   }
 }

@@ -6,7 +6,7 @@ using Android.Content.PM;
 using osu.Framework.Android;
 using osu.Game.Tests;
 
-namespace osu.Game.Rulesets.Mania.Tests.Android
+namespace osu.Game.Rulesets.Karaoke.Tests.Android
 {
     [Activity(Theme = "@android:style/Theme.NoTitleBar", MainLauncher = true, ScreenOrientation = ScreenOrientation.SensorLandscape, SupportsPictureInPicture = false, ConfigurationChanges = ConfigChanges.Orientation | ConfigChanges.ScreenSize)]
     public class MainActivity : AndroidGameActivity

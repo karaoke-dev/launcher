@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Mania", "osu.Game.Rulesets.Mania\osu.Game.Rulesets.Mania.csproj", "{48F4582B-7687-4621-9CBE-5C24197CB536}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Karaoke", "osu.Game.Rulesets.Karaoke\osu.Game.Rulesets.Karaoke.csproj", "{48F4582B-7687-4621-9CBE-5C24197CB536}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Desktop", "osu.Desktop\osu.Desktop.csproj", "{419659FD-72EA-4678-9EB8-B22A746CED70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Mania.Tests", "osu.Game.Rulesets.Mania.Tests\osu.Game.Rulesets.Mania.Tests.csproj", "{7E9E9C34-B204-406B-82E2-E01E900699CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "osu.Game.Rulesets.Karaoke.Tests", "osu.Game.Rulesets.Karaoke.Tests\osu.Game.Rulesets.Karaoke.Tests.csproj", "{7E9E9C34-B204-406B-82E2-E01E900699CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.iOS", "osu.iOS\osu.iOS.csproj", "{3F082D0B-A964-43D7-BDF7-C256D76A50D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Rulesets.Mania.Tests.iOS", "osu.Game.Rulesets.Mania.Tests.iOS\osu.Game.Rulesets.Mania.Tests.iOS.csproj", "{39FD990E-B6CE-4B2A-999F-BC008CF2C64C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Rulesets.Karaoke.Tests.iOS", "osu.Game.Rulesets.Karaoke.Tests.iOS\osu.Game.Rulesets.Karaoke.Tests.iOS.csproj", "{39FD990E-B6CE-4B2A-999F-BC008CF2C64C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Android", "osu.Android\osu.Android.csproj", "{D1D5F9A8-B40B-40E6-B02F-482D03346D3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Rulesets.Mania.Tests.Android", "osu.Game.Rulesets.Mania.Tests.Android\osu.Game.Rulesets.Mania.Tests.Android.csproj", "{531F1092-DB27-445D-AA33-2A77C7187C99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osu.Game.Rulesets.Karaoke.Tests.Android", "osu.Game.Rulesets.Karaoke.Tests.Android\osu.Game.Rulesets.Karaoke.Tests.Android.csproj", "{531F1092-DB27-445D-AA33-2A77C7187C99}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10DF8F12-50FD-45D8-8A38-17BA764BF54D}"
 	ProjectSection(SolutionItems) = preProject

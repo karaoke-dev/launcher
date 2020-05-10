@@ -12,16 +12,7 @@
     <assembly fullname="osu.Game.Resources">
         <type fullname="*" />
     </assembly>
-    <assembly fullname="osu.Game.Rulesets.Catch">
-        <type fullname="*" />
-    </assembly>
-    <assembly fullname="osu.Game.Rulesets.Taiko">
-        <type fullname="*" />
-    </assembly>
-    <assembly fullname="osu.Game.Rulesets.Mania">
-        <type fullname="*" />
-    </assembly>
-    <assembly fullname="osu.Game.Rulesets.Osu">
+    <assembly fullname="osu.Game.Rulesets.Karaoke">
         <type fullname="*" />
     </assembly>
 </linker>

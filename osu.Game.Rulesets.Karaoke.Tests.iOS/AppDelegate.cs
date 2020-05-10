@@ -5,7 +5,7 @@ using Foundation;
 using osu.Framework.iOS;
 using osu.Game.Tests;
 
-namespace osu.Game.Rulesets.Mania.Tests.iOS
+namespace osu.Game.Rulesets.Karaoke.Tests.iOS
 {
     [Register("AppDelegate")]
     public class AppDelegate : GameAppDelegate

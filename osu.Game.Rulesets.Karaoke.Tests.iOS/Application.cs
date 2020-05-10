@@ -3,7 +3,7 @@
 
 using UIKit;
 
-namespace osu.Game.Rulesets.Mania.Tests.iOS
+namespace osu.Game.Rulesets.Karaoke.Tests.iOS
 {
     public static class Application
     {

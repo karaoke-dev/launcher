@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>osu.Game.Rulesets.Mania.Tests.iOS</string>
+	<string>osu.Game.Rulesets.Karaoke.Tests.iOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>ppy.osu-Game-Rulesets-Mania-Tests-iOS</string>
+	<string>ppy.osu-Game-Rulesets-Karaoke-Tests-iOS</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
